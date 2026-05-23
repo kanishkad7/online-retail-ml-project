@@ -14,7 +14,7 @@ The study combines:
 ## Dataset
 
 Online Retail II Dataset:
-(https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?classId=259945ce-8eb6-41be-882d-850469f563c4&assignmentId=8d6fba87-f147-4cda-bdac-4980b23088ee&submissionId=35a87999-15ed-316c-271a-582a88999c7e)
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci?classId=259945ce-8eb6-41be-882d-850469f563c4&assignmentId=8d6fba87-f147-4cda-bdac-4980b23088ee&submissionId=35a87999-15ed-316c-271a-582a88999c7e
 
 ## Technologies Used
 
