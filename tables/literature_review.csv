@@ -1,0 +1,4 @@
+Author,Methodology,Dataset,Limitation
+Chen et al.,Random Forest,Retail Sales Data,Limited Feature Engineering
+Gupta et al.,Customer Segmentation,E-commerce Dataset,Small Dataset
+Ali et al.,Sales Forecasting,Transaction Data,Low Prediction Accuracy
