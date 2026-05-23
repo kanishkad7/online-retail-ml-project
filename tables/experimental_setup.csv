@@ -1,0 +1,9 @@
+Parameter,Configuration
+Programming Language,Python 3.10
+Development Environment,Jupyter Notebook
+Machine Learning Algorithm,Random Forest
+Dataset,Online Retail II Dataset
+Train Test Split,80:20
+Evaluation Metrics,Accuracy Precision Recall F1
+Libraries Used,Pandas NumPy Matplotlib Scikit-learn
+Hardware,Intel Core i7 16GB RAM
