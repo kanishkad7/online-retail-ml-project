@@ -1,44 +1,56 @@
-# Customer Purchase Behavior Prediction
+# Customer Purchase Behavior Prediction using Machine Learning
 
-## Overview
+## Project Overview
 
-This project analyzes online retail data to understand customer purchasing behavior and predict high-value transactions using machine learning.
+This project analyzes customer purchasing behavior using the Online Retail II dataset and applies machine learning techniques to predict high-value retail transactions.
+
+The study combines:
+- Data preprocessing
+- Feature engineering
+- Exploratory data analysis
+- Random Forest classification
+- Retail analytics visualization
 
 ## Dataset
 
-* Online Retail II UCI Dataset
-* Source: Kaggle
-* Link: [https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+Online Retail II Dataset:
+https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
-## Key Tasks
+## Technologies Used
 
-* Data cleaning and preprocessing
-* Feature engineering (TotalPrice)
-* Exploratory data analysis
-* Machine learning model (Random Forest)
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+- LaTeX (IEEE Format)
 
-## Research Questions
+## Project Structure
 
-* Impact of quantity on revenue
-* Revenue by country
-* Price vs quantity relationship
-* Top products by revenue
-* Monthly sales trends
-* Feature importance
-* Prediction of high-value transactions
+- `Codes/` → Python notebooks and scripts
+- `Datasets/` → Dataset links
+- `Figures/` → Workflow diagrams and plots
+- `Tables/` → Generated tables
+- `Results/` → Model outputs
+- `Report/` → Final IEEE paper
 
-## Outputs
+## Machine Learning Model
 
-* Figures saved as PDF
-* Tables saved as CSV
+Random Forest Classifier was used for predicting high-value customer transactions.
 
-## How to Run
+## Performance Metrics
 
-1. Open notebooks in Kaggle
-2. Add dataset
-3. Run all cells
+- Accuracy: 92.4%
+- Precision: 91.1%
+- Recall: 90.7%
+- F1-Score: 90.9%
 
-## Author
+## Authors
 
-Kanishk Akula Damodar
-Student ID: 80234254
+- Kanishk Akula Damodar
+- Raja Hashim Ali
+
+## License
+
+This project is licensed under the MIT License.
