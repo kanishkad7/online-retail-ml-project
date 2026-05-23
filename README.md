@@ -49,7 +49,6 @@ Random Forest Classifier was used for predicting high-value customer transaction
 ## Authors
 
 - Kanishk Akula Damodar
-- Raja Hashim Ali
 
 ## License
 
